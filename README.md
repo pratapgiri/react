@@ -66,7 +66,7 @@ npm run dev
 ## 📈 Progress
 
 * [x] Project Setup
-* [ ] Components
+* [x] Components
 * [ ] Props & State
 * [ ] Hooks
 * [ ] API Integration
